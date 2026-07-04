@@ -38,11 +38,9 @@ A highly secured relational system for cataloging industrial entities in the Oil
 
 ## 📊 GitHub Metrics & Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkatsukiDeki&show_icons=true&theme=tokyonight&count_private=true" alt="Andrey's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkatsukiDeki&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px" />
-</p>
+![Andrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkatsukiDeki&show_icons=true&theme=tokyonight&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkatsukiDeki&layout=compact&theme=tokyonight&langs_count=6) 
 ---
 
 ## 📬 Connect with me
