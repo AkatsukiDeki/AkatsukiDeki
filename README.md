@@ -40,8 +40,6 @@ A highly secured relational system for cataloging industrial entities in the Oil
 
 ![Andrey's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkatsukiDeki&theme=tokyonight)
 
-[![Andrey's GitHub Profile](https://github-readme-stats.vercel.app/api?username=AkatsukiDeki&theme=tokyonight)](https://github.com/AkatsukiDeki)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
