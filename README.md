@@ -50,5 +50,5 @@ A highly secured relational system for cataloging industrial entities in the Oil
 
 ## 📬 Connect with me
 - **Email:** andreySU22@yandex.ru
-- **Resume (EN):** [[Link to your English Google Doc](https://docs.google.com/document/d/1i7vHycyi3remdHhEZB8CAkM12XSaC8bS3xkXRwKs2UY/edit?usp=sharing)]
-- **Resume (RU):** [[Link to your Russian Google Doc](https://docs.google.com/document/d/1M2MR18l1P7BSIG1-uF-ad6_PUnn3uJDZOAHU-gAXvOQ/edit?usp=sharing)]
+- **Resume (EN):** [[Link to English Google Doc](https://docs.google.com/document/d/1i7vHycyi3remdHhEZB8CAkM12XSaC8bS3xkXRwKs2UY/edit?usp=sharing)]
+- **Resume (RU):** [[Link to Russian Google Doc](https://docs.google.com/document/d/1M2MR18l1P7BSIG1-uF-ad6_PUnn3uJDZOAHU-gAXvOQ/edit?usp=sharing)]
