@@ -40,8 +40,7 @@ A highly secured relational system for cataloging industrial entities in the Oil
 
 ![Andrey's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkatsukiDeki&theme=tokyonight)
 
-![Andrey's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkatsukiDeki&layout=compact&theme=tokyonight&langs_count=6)
----
+[![Andrey's GitHub Profile](https://github-readme-stats.vercel.app/api?username=AkatsukiDeki&theme=tokyonight)](https://github.com/AkatsukiDeki)---
 
 ## 📬 Connect with me
 - **Email:** andreySU22@yandex.ru
