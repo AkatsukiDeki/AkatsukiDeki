@@ -42,6 +42,10 @@ A highly secured relational system for cataloging industrial entities in the Oil
 
 [![Andrey's GitHub Profile](https://github-readme-stats.vercel.app/api?username=AkatsukiDeki&theme=tokyonight)](https://github.com/AkatsukiDeki)
 
+✨ **My Coding Metrics:**
+- 🛠️ **Top Languages:** `Python`, `TypeScript`, `JavaScript`, `HTML/CSS`
+- 📈 **Core Stack:** Web Development, Automation, Cloud Infrastructure
+
 ---
 
 ## 📬 Connect with me
