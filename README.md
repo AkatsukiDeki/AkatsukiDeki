@@ -29,7 +29,7 @@ A Tinder-style SPA for finding study partners with live chat routing.
 - **Key Achievements:** Implemented asynchronous WebSockets via Django Channels + Redis; set up JWT-protected endpoints and containerized the entire flow using multi-stage Docker builds under Nginx Reverse Proxy.
 - **Stack:** Python, Django, DRF, React, WebSockets, Redis, Docker.
 
-### 🏭 [Industrial Object Catalog](https://github.com/AkatsukiDeki/your-repo-name)
+### 🏭 [Industrial Object Catalog](https://github.com/AkatsukiDeki/kart)
 A highly secured relational system for cataloging industrial entities in the Oil & Gas sector.
 - **Key Achievements:** Built an automated RBAC system with an internal log auditing module to trace changes; drastically reduced DB overhead using advanced Django ORM fetch optimizations (`select_related`, `prefetch_related`).
 - **Stack:** Python, Django, PostgreSQL, NetworkX, Bootstrap 5.
