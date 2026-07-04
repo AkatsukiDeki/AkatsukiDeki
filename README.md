@@ -24,8 +24,8 @@ Full-Stack Software Engineer with a rigorous academic background in Information 
 
 ## 📂 Key Projects Overview
 
-### 🦏 [Study Match]([https://github.com/AkatsukiDeki/your-repo-name](https://github.com/AkatsukiDeki/SMatch)) 
-A Tinder-style SPA for finding study partners with live chat routing.
+### 🦏 [Study Match](https://github.com/AkatsukiDeki/SMatch) 
+A Tinder-style SPA for finding study partners with live chat routing. 
 - **Key Achievements:** Implemented asynchronous WebSockets via Django Channels + Redis; set up JWT-protected endpoints and containerized the entire flow using multi-stage Docker builds under Nginx Reverse Proxy.
 - **Stack:** Python, Django, DRF, React, WebSockets, Redis, Docker.
 
