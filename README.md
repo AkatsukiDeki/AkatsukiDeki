@@ -34,6 +34,13 @@ A highly secured relational system for cataloging industrial entities in the Oil
 - **Key Achievements:** Built an automated RBAC system with an internal log auditing module to trace changes; drastically reduced DB overhead using advanced Django ORM fetch optimizations (`select_related`, `prefetch_related`).
 - **Stack:** Python, Django, PostgreSQL, NetworkX, Bootstrap 5.
 
+### 🧠 Personal Knowledge Agent (PKA)
+
+An open-source, advanced Retrieval-Augmented Generation (RAG) and memory application designed to act as an external cognitive layer.
+
+* **Key Achievements:** Built a hybrid search engine combining vector similarity (`pgvector`) and BM25 with Reciprocal Rank Fusion (RRF); implemented a multi-level memory architecture (L1 Chunks, L2 Decisions/Claims, L3 Patterns, L4 Timeline Evolution) with automated concept extraction via Map-Reduce pipelines and Gemini API.
+* **Stack:** Python, FastAPI, React, Vite, PostgreSQL (`pgvector`), Docker, Gemini API.
+
 ---
 
 ## 📊 GitHub Metrics & Activity
