@@ -34,7 +34,7 @@ A highly secured relational system for cataloging industrial entities in the Oil
 - **Key Achievements:** Built an automated RBAC system with an internal log auditing module to trace changes; drastically reduced DB overhead using advanced Django ORM fetch optimizations (`select_related`, `prefetch_related`).
 - **Stack:** Python, Django, PostgreSQL, NetworkX, Bootstrap 5.
 
-### 🧠 Personal Knowledge Agent (PKA)
+### 🧠 [Personal Knowledge Agent (PKA)](https://github.com/AkatsukiDeki/PersonalKnowledgeAgent)
 
 An open-source, advanced Retrieval-Augmented Generation (RAG) and memory application designed to act as an external cognitive layer.
 
